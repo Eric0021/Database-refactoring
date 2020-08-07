@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plantuml.1.2020.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plantuml.1.2020.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
